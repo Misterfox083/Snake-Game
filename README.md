@@ -1,11 +1,8 @@
-#!/bin/bash
-cd "$(dirname "$0")"
-open dist/snake.app
 # 🐍 Snake Game
 
 A classic Snake game built with Python and Tkinter.
 
-![Snake Game](https://raw.githubusercontent.com/Misterfox083/Snake/main/screenshot.png)
+![Snake Game](https://raw.githubusercontent.com/YOUR_USERNAME/Snake/main/screenshot.png)
 
 ## 🎮 Quick Start
 
@@ -38,7 +35,7 @@ A classic Snake game built with Python and Tkinter.
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Misterfox083/Snake.git
+git clone https://github.com/YOUR_USERNAME/Snake.git
 
 # Navigate to the project directory
 cd Snake
@@ -70,4 +67,4 @@ pyinstaller --onefile --windowed snake.py
 Feel free to fork this repository and submit pull requests!
 
 ## 📄 License
-MIT License
+MIT License 
